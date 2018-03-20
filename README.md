@@ -1,5 +1,5 @@
 ## php-zookeeper-ide-helper
-php-zookeeper extension ide helper
+[php-zookeeper](https://github.com/andreiz/php-zookeeper) extension ide helper
 
 ## Usage
 ### composer
